@@ -47,6 +47,10 @@ Install dependencies
 
 ```
 
+You are provided with a advanced dashboard folder which contains the frontend for this project and then we have the pothole detection folder which contains the datasets and the jupyternotebook and the python file for
+object detection which required a able system. On the main branch we have the the two jupyternotebooks which contains the LLM base both opensource and api use (a google api).
+
+
 Now run the jutyper Notebooks as usual
 
 ## Authors
